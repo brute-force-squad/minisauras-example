@@ -1,12 +1,1 @@
-#player.skeleton {
-    position: relative;
-    z-index: 1;
-    margin: 80px auto 0
-}
-
-@media (min-width:882px) {
-    #player.skeleton.theater {
-        margin-top: 56px;
-        margin-bottom: 16px
-    }
-}
+#player.skeleton{position:relative;z-index:1;margin:80px auto 0}@media (min-width:882px){#player.skeleton.theater{margin-top:56px;margin-bottom:16px}}
